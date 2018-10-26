@@ -1,0 +1,19 @@
+{
+  "name": "deadfishjs",
+  "version": "1.0.0",
+  "description": "An interpreter for the Deadfish esoteric programming language, and its relatives, implemented in modern JavaScript.",
+  "main": "deadfish.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-rc.1"
+  },
+  "dependencies": {},
+  "keywords": [
+    "deadfish",
+    "esolang"
+  ],
+  "author": "young_was",
+  "license": "MIT"
+}
